@@ -4,7 +4,10 @@ This page describes Mark Dixon's [BioHack Academy](http://biohackacademy.github.
 
 ## What is tDCS
 
-Transcranial direct current stimulation (tDCS) is a form of neurostimulation that uses constant, low current delivered to the brain area of interest via electrodes on the scalp. It was originally developed to help patients with brain injuries or psychiatric conditions like major depressive disorder. tDCS appears to have some potential for treating depression. However, there is no good evidence that it is useful for cognitive enhancement in healthy people, memory deficits in Parkinson's disease and Alzheimer's disease, schizophrenia, non-neuropathic pain, nor improving upper limb function after stroke. Source: [WikiPedia](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation)
+Transcranial direct current stimulation (tDCS) is a form of neurostimulation that uses constant, low current delivered to the brain area of interest via electrodes on the scalp. It was originally developed to help patients with brain injuries or psychiatric conditions like major depressive disorder. tDCS appears to have some potential for treating depression. However, there is no good evidence that it is useful for cognitive enhancement in healthy people, memory deficits in Parkinson's disease and Alzheimer's disease, schizophrenia, non-neuropathic pain, nor improving upper limb function after stroke. Source: [WikiPedia](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation).
+
+![BrainStim](http://www.diytdcs.com/media/brmlab-tdcs.jpg)
+Source: [DIYtdcs](http://www.diytdcs.com/2013/01/the-open-tdcs-project/).
 
 ### Hardware
 
