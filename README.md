@@ -11,6 +11,10 @@ Source: [DIYtdcs](http://www.diytdcs.com/2013/01/the-open-tdcs-project/).
 
 ### Hardware
 
+The main components are an Arduino, an AD5206 digital potentiometer and medical grade skin electrodes. The arragnement is diagrammed below (source: [OpenStim on SourceForge](https://sourceforge.net/p/openbrainstim/wiki/Hardware/)).
+
+![Circuit Diagram](https://github.com/MDofPerth/MDofPerth.github.io/blob/master/Circuit.gif)
+
 ### Software
 
 ## About the author
