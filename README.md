@@ -1,4 +1,4 @@
-tDCS project - Biohack Academy 2017 - UWA
+# tDCS project - Biohack Academy 2017 - UWA
 
 This page describes' Mark Dixon's [BioHack Academy](http://biohackacademy.github.io/) project, a Transcranial Direct Current Stimulation (tDCS) machine.  This project draws heavily on [OpenStim / OpenBrainStim](https://sourceforge.net/p/openbrainstim/wiki/Home/). This project is part of the 2017 BioHack Academy (BHA4) coordinated by [WAAG Society](http://waag.org/en) in Netherlands.
 
