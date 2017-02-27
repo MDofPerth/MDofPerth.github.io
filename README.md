@@ -1,36 +1,22 @@
 # Mark Dixon's tDCS project
 
-You can use the [editor on GitHub](https://github.com/MDofPerth/tDCS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page describes' Mark's [BioHack Academy](http://biohackacademy.github.io/) project, a Transcranial Direct Current Stimulation (tDCS) machine.  This project draws heavily on [OpenStim](https://sourceforge.net/p/openbrainstim/wiki/Home/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is tDCS
 
-### Markdown
+Transcranial direct current stimulation (tDCS) is a form of neurostimulation that uses constant, low current delivered to the brain area of interest via electrodes on the scalp. It was originally developed to help patients with brain injuries or psychiatric conditions like major depressive disorder. tDCS appears to have some potential for treating depression. However, there is no good evidence that it is useful for cognitive enhancement in healthy people, memory deficits in Parkinson's disease and Alzheimer's disease, schizophrenia, non-neuropathic pain, nor improving upper limb function after stroke. Source: [WikiPedia](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hardware
 
-```markdown
-Syntax highlighted code block
+### Software
 
-# Header 1
-## Header 2
-### Header 3
+## About the author
 
-- Bulleted
-- List
+Mark Dixon works at The University of Western Australia in the Research Ethics and Integrity section. He is a participant in the 2017 BioHack Academy coordinated by [WAAG Society](http://waag.org/en) in Netherlands.
 
-1. Numbered
-2. List
+Mark spent his early career doing software development on IBM mainframe computers, mostly in Operating System (e.g. z/OS, MVS, VM/ESA, VSE/ESA, ...) and compiler, such as the High Level Assembers (HLASM) and COBOL.  Later he was a business coordinator for software development professinals and a project manager. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MDofPerth/tDCS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mark no longer works in software but likes to keep his hand in by tinkering with Raspberry Pi and Arduino.
 
 ### Contact
 
