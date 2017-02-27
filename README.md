@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Mark Dixon's tDCS project
 
 You can use the [editor on GitHub](https://github.com/MDofPerth/tDCS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
